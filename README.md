@@ -1,12 +1,12 @@
 ## Bem-vindo(a) ao perfil do 
-DANIEL ERICK COSTA DE SOUZA😁
+Daniel-erick😁
 
  <div>
    <a href="https://github.com/
-DANIEL ERICK COSTA DE SOUZA">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vdlk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+Daniel-erick">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-erick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-DANIEL ERICK COSTA DE SOUZA&layout=compact&langs_count=6&theme=tokyonight"/>
+Daniel-erick&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -26,6 +26,6 @@ DANIEL ERICK COSTA DE SOUZA&layout=compact&langs_count=6&theme=tokyonight"/>
   <a href = "danielvdlk56@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/vdlk/vdlk/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Daniel-erick/vdlk/blob/output/github-contribution-grid-snake.svg)
 
 </div>
